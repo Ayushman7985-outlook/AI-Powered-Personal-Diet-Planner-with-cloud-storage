@@ -292,13 +292,13 @@ python app.py
 Backend:
 
 ```text
-http://localhost:5000
+https://ai-powered-personal-diet-planner-with.onrender.com
 ```
 
 Health check:
 
 ```text
-http://localhost:5000/api/health
+https://ai-powered-personal-diet-planner-with.onrender.com/api/health
 ```
 
 ### 2. Frontend
@@ -318,7 +318,7 @@ npm run dev
 Frontend:
 
 ```text
-http://localhost:5173
+https://ai-powered-personal-diet-planner-with.onrender.com
 ```
 
 ## Testing Performed
