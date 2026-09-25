@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ArrowLeft, Eye, EyeOff, Sparkles } from "lucide-react";
 import { Link, useNavigate } from "react-router-dom";
 
-const API_URL = "http://127.0.0.1:5000";
+const API_URL = "https://ai-powered-personal-diet-planner-with.onrender.com";
 
 function Register() {
   const navigate = useNavigate();
