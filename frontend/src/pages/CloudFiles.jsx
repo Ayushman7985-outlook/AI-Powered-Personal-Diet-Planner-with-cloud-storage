@@ -19,8 +19,7 @@ import {
 } from "react";
 
 
-const API_URL = "http://localhost:5000";
-
+const API_URL = "https://ai-powered-personal-diet-planner-with.onrender.com";
 
 function CloudFiles() {
 
