@@ -1,0 +1,38 @@
+{
+    "breakfast": [
+        "Oats with milk, banana and almonds",
+        "Vegetable poha with curd",
+        "Vegetable upma with curd",
+        "Moong dal chilla with mint chutney",
+        "Paneer sandwich with whole wheat bread",
+        "Idli with sambar",
+        "Besan chilla with vegetables"
+    ],
+    "lunch": [
+        "Roti with dal, mixed vegetables and curd",
+        "Brown rice with rajma and salad",
+        "Roti with paneer curry and vegetables",
+        "Rice with chole and cucumber salad",
+        "Roti with mixed dal and seasonal vegetables",
+        "Vegetable pulao with raita",
+        "Khichdi with curd and salad"
+    ],
+    "snack": [
+        "Fruit with a handful of almonds",
+        "Roasted chana with fruit",
+        "Sprouts chaat",
+        "Greek yogurt with fruit",
+        "Makhana with green tea",
+        "Buttermilk with roasted chana",
+        "Fruit and mixed nuts"
+    ],
+    "dinner": [
+        "Roti with dal and mixed vegetables",
+        "Vegetable khichdi with curd",
+        "Paneer and vegetable stir-fry with roti",
+        "Dal with roti and salad",
+        "Vegetable soup with paneer sandwich",
+        "Roti with chole and salad",
+        "Moong dal with vegetables and roti"
+    ]
+}
