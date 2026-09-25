@@ -10,10 +10,12 @@ from routes.file_routes import file_bp
 
 app = Flask(__name__)
 
+
 ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-    "https://ai-powered-personal-diet-planner-wi-nine.vercel.app"
+    "https://ai-powered-personal-diet-planner-wi-nine.vercel.app",
+    "https://ai-powered-personal-diet-planner-with-cloud-storage-bnzumf2nb.vercel.app"
 ]
 
 
