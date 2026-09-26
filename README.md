@@ -4,6 +4,9 @@ A full-stack educational wellness application that allows authenticated users to
 
 > **Disclaimer:** This project provides educational/general wellness examples and is not medical or clinical advice.
 
+🚀 Live Application
+Live Demo: https://ai-powered-personal-diet-planner-wi-nine.vercel.app/
+
 ## Features
 
 - User registration and login
